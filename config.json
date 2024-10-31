@@ -1,0 +1,14 @@
+{
+  "v":"1.0.0",
+  "arm":true
+}
+
+
+logTopic: dsiot/smarthub/test/out/uid/log
+
+{
+  "hid": "HUB005",
+  "ip": "192.168.1.127",
+  "rssi": -50
+}
+

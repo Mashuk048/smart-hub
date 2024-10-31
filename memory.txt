@@ -1,0 +1,34 @@
+Executable segment sizes:
+
+
+IROM   : 361560          - code in flash         (default or ICACHE_FLASH_ATTR) 
+
+
+IRAM   : 28972   / 32768 - code in IRAM          (ICACHE_RAM_ATTR, ISRs...) 
+
+
+DATA   : 1388  )         - initialized variables (global, static) in RAM/HEAP 
+
+
+RODATA : 3720  ) / 81920 - constants             (global, static) in RAM/HEAP 
+
+
+BSS    : 27080 )         - zeroed variables      (global, static) in RAM/HEAP 
+
+
+Executable segment sizes:
+
+
+IROM   : 361544          - code in flash         (default or ICACHE_FLASH_ATTR) 
+
+
+IRAM   : 28972   / 32768 - code in IRAM          (ICACHE_RAM_ATTR, ISRs...) 
+
+
+DATA   : 1384  )         - initialized variables (global, static) in RAM/HEAP 
+
+
+RODATA : 3700  ) / 81920 - constants             (global, static) in RAM/HEAP 
+
+
+BSS    : 27080 )         - zeroed variables      (global, static) in RAM/HEAP 
